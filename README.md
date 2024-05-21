@@ -4,7 +4,7 @@
 meu nome é _Murilo Costa Trente_
 
 - Estou estudando na [Alura](https://www.alura.com.br)
-- Estou estudadno na escola Reverendo Omar Daibert;
+- Estou estudadno na escola **Reverendo Omar Daibert**;
 - Estou fazendo um curso que está me ensinando linguagem de programção;
 - Utilizo esse site para a minha organização e compartilhamento dos meus projetos
 
